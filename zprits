@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zprits – Zero Alcohol Spirits</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      color: #333;
+    }
+    header {
+      background-color: #2b8aa2;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.8rem;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .highlight {
+      color: #cc6cbe;
+      font-weight: bold;
+    }
+    .button {
+      background-color: #00c9ff;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .price-box {
+      background-color: #f2f2f2;
+      padding: 20px;
+      border-left: 6px solid #cc6cbe;
+      margin-top: 20px;
+    }
+    .reviews {
+      background-color: #f9f9f9;
+      padding: 30px 20px;
+      margin-top: 30px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #2b8aa2;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Zprits</h1>
+    <p>Zero Alcohol. Full Spirit.</p>
+  </header>
+
+  <section>
+    <h2>Why Zprits?</h2>
+    <p><span class="highlight">No alcohol. No regrets.</span> Zprits replaces your favourite spirits with zero-alcohol, low-sugar alternatives — offering the same great taste without the hangover. Whether you're out partying or winding down, feel refreshed, not regretful.</p>
+
+    <div class="price-box">
+      <h3>Pricing</h3>
+      <ul>
+        <li><strong>Wholesale:</strong> $10 per bottle</li>
+        <li><strong>Retail:</strong> $29.99 per bottle</li>
+      </ul>
+    </div>
+
+    <a href="#" class="button">Order Now</a>
+  </section>
+
+  <section>
+    <h2>Who Loves Zprits?</h2>
+    <p>Our biggest fans are health-conscious adults, especially <span class="highlight">women aged 18–26</span>. With 600+ retail locations and a strong presence on Instagram, Zprits is growing fast!</p>
+  </section>
+
+  <section class="reviews">
+    <h2>Customer Reviews</h2>
+    <p><strong>"Best tasting alcohol-free drink I've ever had!"</strong> – Priya, 24</p>
+    <p><strong>"Guilt-free fun. Love the flavour and the vibe."</strong> – Arjun, 28</p>
+    <p><strong>"Perfect for brunches, parties, or just relaxing."</strong> – Tanya, 22</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Zprits. All rights reserved.
+  </footer>
+</body>
+</html>
